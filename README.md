@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMamba7 , an enthusiastic student right now :D
+- 👋 Hi, I’m @TheMamba7 , an enthusiastic student :D
 - 👀 I’m interested in learning more about utilities of Python because of the fact that i have an idea about all the basics !
 - 🌱 I’m currently learning how to become a successful Python Developper !
 - 💞️ I’m looking to explore new world on GitHub !
